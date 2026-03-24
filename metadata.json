@@ -1,0 +1,5 @@
+{
+  "name": "Tic Tac Toe Pro",
+  "description": "A sleek, production-ready Tic Tac Toe game built with React, Vite, and TypeScript.",
+  "requestFramePermissions": []
+}
